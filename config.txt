@@ -1,6 +1,6 @@
 token=NTA2ODQ5NDMxNDg5MDg1NDYx.DroIDA.my6ymVXH-ModEWWrk91la14-5dI
-owner= 311603535466856458 
-prefix= A
-game= Savage⁸⁹
+owner= 490891548494659586 
+prefix= M
+game= Bot
 stayinchannel=true 
 songinstatus=false 
