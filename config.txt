@@ -1,4 +1,4 @@
-token=NTA2ODQ5NDMxNDg5MDg1NDYx.DroIDA.my6ymVXH-ModEWWrk91la14-5dI
+token=NTA3MjQ1NjA3MDMxNjY4Nzc2.Drt5Ew.4gvuxXK89R-9T9lbe4_nBhocOPM
 owner= 490891548494659586 
 prefix= M
 game= Bot
