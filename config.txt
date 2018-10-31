@@ -1,0 +1,6 @@
+token=NTA2ODQ5NDMxNDg5MDg1NDYx.DroIDA.my6ymVXH-ModEWWrk91la14-5dI
+owner= 311603535466856458 
+prefix= A
+game= Savage⁸⁹
+stayinchannel=true 
+songinstatus=false 
